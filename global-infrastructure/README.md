@@ -5,7 +5,7 @@ https://aws.amazon.com/about-aws/global-infrastructure/?p=ngi&loc=1
 
 ![alt text](https://github.com/Kloud26/aws/blob/master/global-infrastructure/AWS-Global-Infrastructure.PNG)
 
->> 1.**AWS Region:** A Region is a physical location in the world which consists of two or more Availability Zones(AZ's).
+>>- 1.**AWS Region:** A Region is a physical location in the world which consists of two or more Availability Zones(AZ's).
 .
->> 2.**Availability Zone:** An AZ is one of more discrete data centers, each with redundant power, networking and connectivity, housed in seperate facilities. 
->> 3.**Edge Location:** Edge Locations are endpoints for AWS which are used for caching content. Typically this consists of CloudFront, Amazon's Content Delivery Network (CDN).
+>>- 2.**Availability Zone:** An AZ is one of more discrete data centers, each with redundant power, networking and connectivity, housed in seperate facilities. 
+>>- 3.**Edge Location:** Edge Locations are endpoints for AWS which are used for caching content. Typically this consists of CloudFront, Amazon's Content Delivery Network (CDN).
